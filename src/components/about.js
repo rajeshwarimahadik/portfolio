@@ -16,7 +16,7 @@ export const About = () => {
           <Col md={6} className="text-md-end">
             
 
-            <a href="./rajeshwari_mahadik_resume_18_08_24.pdf" download="Rajeshwari_Mahadik_CV.pdf" className="btn btn-primary">Download CV</a>
+            <a href="./Rajeshwari_Mahadik_Software_Developer_06_01_2024.pdf" download="Rajeshwari_Mahadik_CV.pdf" className="btn btn-primary">Download CV</a>
            
           </Col>
         </Row>

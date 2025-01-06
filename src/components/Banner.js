@@ -52,7 +52,9 @@ export const Banner = () => {
               {`Hi I'am Rajeshwari and I am a passionate`} <span className="wrap"><br />{text}</span>
             </h1>
             <p>
-            I am Rajeshwari Mahadik, an aspiring software developer with a background in Mechanical Engineering and a passion for Java development. Currently enhancing my skills with a Java Development course from Qspiders Thane, I have experience in JavaScript and am eager to explore opportunities in frontend technologies and web development.
+            Hi, I’m Rajeshwari Mahadik, a software developer with a creative edge! Starting as a Mechanical Engineer, I discovered a passion for building digital experiences and dove into Java development. With a strong foundation in Java and JavaScript, I’ve embraced frontend technologies to bring ideas to life. Driven by curiosity and creativity, I turn challenges into opportunities, crafting intuitive interfaces and optimized functionality. 
+            
+            If you’re looking to bring your vision to life with a stunning website, send me an email—I’d love to collaborate!
             </p>
             
             <button onClick={() => window.location.href = "#connect"}>
